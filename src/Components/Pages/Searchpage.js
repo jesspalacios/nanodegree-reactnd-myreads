@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { Component } from "react";
 import { Link } from 'react-router-dom'
-import * as BooksAPI from '../../BooksAPI'
+import * as BooksAPI from '../../api/BooksAPI'
 import Book from '../Book';
 
-class searchPage extends React.Component {
+
+class searchPage extends Component {
    constructor(props) {
       super(props);
       this.state = {

@@ -9,6 +9,12 @@ class App extends Component {
       <Switch>
         <Route exact path="/" component={Mainpage} />
         <Route exact path="/search" component={Searchpage} />
+        <Route render={() => (
+          <div>
+            <h1>Page not found</h1>
+            <p>Woops. Looks like this page doesn't exist.</p>
+          </div>
+        )} />
       </Switch>
     );
   }
