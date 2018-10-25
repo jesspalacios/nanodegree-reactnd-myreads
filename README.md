@@ -4,7 +4,8 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
+Below you will find some information on how to perform common tasks.
+
 You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
@@ -62,6 +63,7 @@ After creation, your project should look like this:
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
     └── serviceWorker.js
 ```
+
 For the project to build, **these files must exist with exact filenames**:
 
 - `public/index.html` is the page template;

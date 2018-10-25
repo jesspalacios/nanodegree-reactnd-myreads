@@ -9,6 +9,7 @@ class searchPage extends Component {
       super(props);
       this.state = {
          books: [],
+        isEmpty: false,
          results: [],
          query: ""
       }
