@@ -24,6 +24,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [GitHub Pages](#github-pages)
 - [Heroku](#heroku)
 
+
 ## Getting Started
 
 * git clone https://github.com/MzLovelyj/nanodegree-reactnd-myreads
@@ -295,6 +296,8 @@ If, when deploying, you get `Cannot read property 'email' of null`, try the foll
 
 Use the [Heroku Buildpack for Create React App](https://github.com/mars/create-react-app-buildpack).<br>
 You can find instructions in [Deploying React with Zero Configuration](https://blog.heroku.com/deploying-react-with-zero-configuration).
+
+* View Project: Deployed on Heroku: https://blooming-island-27634.herokuapp.com/
 
 #### Resolving Heroku Deployment Errors
 
