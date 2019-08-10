@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "https://mzlovelyj.github.io/nanodegree-reactnd-myreads/",
   "dependencies": {
-    "gh-pages": "^2.0.1",
-    "prop-types": "^15.6.1",
-    "react": "^16.7.0",
+    "gh-pages": "^2.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
     "react-debounce-input": "^3.2.0",
-    "react-dom": "^16.7.0",
+    "react-dom": "^16.9.0",
     "react-router-dom": "^4.3.1"
   },
   "devDependencies": {
